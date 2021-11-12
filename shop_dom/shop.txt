@@ -1,0 +1,8 @@
+fridge
+10 900
+iPhone
+25 1200
+oven
+30 500
+socks
+1000 5
